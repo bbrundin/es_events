@@ -1,0 +1,13 @@
+
+        html {background: url(cloudsunset1.jpg) no-repeat center center fixed;
+          -webskit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;}
+        ul {list-style-type: none; color: white; font-size: 60px; font-family: Courier; text-align: center; }
+        body {background-color: powderblue; text-align: center; font-size:large; }
+        /*h1 {color: red; }*/
+        p {color: blue; }
+        a {color: inherit;text-decoration: none; }
+        a:hover {color:#00A0C6; text-decoration:none; cursor:pointer; }
+        .diamond {color: white; size : 30px; }
